@@ -1,6 +1,6 @@
 # Untargeted Poisoning Attacks and Defense in FKGE
 
-Under review of SIGIR-25.
+Under review.
 
 ## Quick Start
 

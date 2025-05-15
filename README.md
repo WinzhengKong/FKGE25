@@ -1,4 +1,4 @@
-# Untargeted Poisoning Attacks and Defense in FKGE
+# Unveiling and Mitigating Untargeted Poisoning Attacks on Federated Knowledge Graph Embedding
 
 Under review.
 

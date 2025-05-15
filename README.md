@@ -18,6 +18,9 @@ Our code is written in Python 3.9.20.
 
 ### Attack and Defense
 
+ATR -- Attack
+BR -- Defense
+
 ```
 ./run_FedE.sh
 ./run_FedEB.sh
